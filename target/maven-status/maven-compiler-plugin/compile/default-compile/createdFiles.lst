@@ -1,0 +1,11 @@
+com\techloan\model\dao\EquipoDAO.class
+com\techloan\model\dto\EquipoDTO.class
+com\techloan\controller\EquipoServlet.class
+com\techloan\techloanweb\resources\JakartaEE10Resource.class
+com\techloan\conexion\ConexionBD.class
+com\techloan\model\dao\PrestamoDAO.class
+com\techloan\model\dao\EmpleadoDAO.class
+com\techloan\model\dto\PrestamoDTO.class
+com\techloan\techloanweb\JakartaRestConfiguration.class
+com\techloan\model\dto\EmpleadoDTO.class
+com\techloan\service\TechLoanFacade.class
