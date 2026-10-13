@@ -6,7 +6,7 @@
 
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <!DOCTYPE html>
-<!-- http://localhost:8080/TechLoanWeb-1.0-SNAPSHOT/ -->
+<!--LINK DEL APLICATIVO WEB EN CHROME: http://localhost:8080/TechLoanWeb-1.0-SNAPSHOT/ -->
 <html lang="es">
 <head>
     <meta charset="UTF-8">
